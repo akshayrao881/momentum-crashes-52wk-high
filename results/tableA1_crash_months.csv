@@ -1,0 +1,12 @@
+Date,Mkt_pct,WML_pct,WML_star_pct,VWML_pct,WML_capm,WML_star_capm,WML_ff,WML_star_ff,Definition
+Jul 1932,34.06,-73.82,-26.71,-15.32,-45.21,-30.22,-13.44,-14.82,"WML = decile 10 minus decile 1 (D10 - D1), value-weighted, excess/raw spread"
+Aug 1932,37.14,-66.88,-22.08,-12.41,-21.86,-16.75,11.19,-3.6,"WML = decile 10 minus decile 1 (D10 - D1), value-weighted, excess/raw spread"
+Jan 2001,3.96,-35.62,-10.52,-9.81,-37.9,-14.41,-46.43,-21.81,"WML = decile 10 minus decile 1 (D10 - D1), value-weighted, excess/raw spread"
+Apr 2009,10.95,-35.14,-9.06,-6.27,-28.69,-10.47,-23.89,-8.43,"WML = decile 10 minus decile 1 (D10 - D1), value-weighted, excess/raw spread"
+Jun 1938,23.79,-33.75,-2.94,-10.02,-27.01,-9.14,-26.14,-8.37,"WML = decile 10 minus decile 1 (D10 - D1), value-weighted, excess/raw spread"
+Sep 1939,16.18,-30.42,5.26,-19.07,-20.87,1.9,-42.78,-13.48,"WML = decile 10 minus decile 1 (D10 - D1), value-weighted, excess/raw spread"
+Jun 1931,14.03,-29.68,-3.03,-11.44,-24.24,-6.93,-18.25,1.14,"WML = decile 10 minus decile 1 (D10 - D1), value-weighted, excess/raw spread"
+Apr 1933,39.41,-27.01,2.26,-8.82,27.96,14.79,24.79,12.96,"WML = decile 10 minus decile 1 (D10 - D1), value-weighted, excess/raw spread"
+Feb 2021,2.92,-21.84,-12.92,-4.96,-20.19,-13.29,-11.64,-9.66,"WML = decile 10 minus decile 1 (D10 - D1), value-weighted, excess/raw spread"
+Mar 2000,5.35,-19.62,-6.83,-6.61,-21.23,-9.93,2.31,13.58,"WML = decile 10 minus decile 1 (D10 - D1), value-weighted, excess/raw spread"
+Average,18.78,-37.38,-8.66,-10.47,-21.92,-9.45,-14.43,-5.25,"WML = decile 10 minus decile 1 (D10 - D1), value-weighted, excess/raw spread"

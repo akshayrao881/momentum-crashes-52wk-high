@@ -1,0 +1,5 @@
+Strategy,Reb_avg_pct,Reb_tstat,NoReb_avg_pct,NoReb_tstat,Diff_pct
+WML All CRSP,-4.174,-4.56,2.11,10.56,-6.284
+WML* All CRSP,1.149,2.57,1.42,8.95,-0.271
+V-WML All CRSP,-1.513,-3.85,1.728,11.83,-3.241
+WML Ken French MOM (reference),3.193,16.11,2.442,35.48,0.751
