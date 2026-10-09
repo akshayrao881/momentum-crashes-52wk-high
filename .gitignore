@@ -1,0 +1,10 @@
+# CRSP data is licensed (WRDS) and must not be committed
+crsp_*.csv
+crsp_daily*.csv
+crsp_monthly*.csv
+_extract_monthly/
+monthly_spread*.csv
+stock_list_full.csv
+results_v3/cache/
+*.rds
+*.zip
